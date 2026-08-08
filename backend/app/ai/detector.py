@@ -1,4 +1,3 @@
-
 """
 Aegis-Terra YOLO Detection Layer
 
