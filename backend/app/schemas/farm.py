@@ -1,4 +1,3 @@
-
 """
 Schemas for farm profile APIs.
 """
