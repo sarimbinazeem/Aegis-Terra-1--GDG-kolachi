@@ -1,4 +1,3 @@
-
 from .service import get_weather
 
 
